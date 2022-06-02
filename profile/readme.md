@@ -26,4 +26,7 @@
 
 <a href="https://payme.uz/610ca6c33632e1ceb8b8fc44" target="_blank"><img src="https://cdn.paycom.uz/documentation_assets/payme_01.png" alt="Payme" width="200"/>
 </a>
+<a href="https://my.qiwi.com/Mykhayl-YmROUXMQWY" target="_blank"><img src="https://qiwi.com/p2p-admin/static/media/qiwi-logo.6fab9c16.svg" alt="QIWI" width="200"/>
+</a>
+
 

@@ -1,4 +1,4 @@
-# Agriculture Digitalization Centre
+
 
 ### Commits champions are:
   - 🏆 Azamov-Asadbek with **237 commits!**

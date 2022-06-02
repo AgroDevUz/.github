@@ -24,6 +24,6 @@
 
 # Donate us
 
-<a href="https://payme.uz/610ca6c33632e1ceb8b8fc44" target="blank"><img src="https://cdn.paycom.uz/documentation_assets/payme_01.png" alt="Payme" width="200"/>
+<a href="https://payme.uz/610ca6c33632e1ceb8b8fc44" target="_blank"><img src="https://cdn.paycom.uz/documentation_assets/payme_01.png" alt="Payme" width="200"/>
 </a>
 

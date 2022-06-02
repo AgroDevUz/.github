@@ -20,3 +20,10 @@
   - 🥉 Shahbozbek2000 with **25115 lines removed!**
   - JasurM with **1452 lines removed!**
   - zebiniso78 with **649 lines removed!**
+
+
+# Donate us
+
+<a href="https://payme.uz/610ca6c33632e1ceb8b8fc44" target="blank"><img src="https://cdn.paycom.uz/documentation_assets/payme_01.png" alt="Payme" width="200"/>
+</a>
+

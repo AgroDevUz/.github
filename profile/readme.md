@@ -1,26 +1,27 @@
 
 
-> Stats for 02.05.2022
+> Stats for 29.06.2022
+
 ### Commits champions are:
-  - 🏆 Azamov-Asadbek with **237 commits!**
-  - 🥈 Shahbozbek2000 with **137 commits!**
-  - 🥉 odilxon with **95 commits!**
-  - JasurM with **38 commits!**
-  - zebiniso78 with **26 commits!**
+  - 🏆 odilxon with **434 commits!**
+  - 🥈 baxtiyor-gis with **319 commits!**
+  - 🥉 Azamov-Asadbek with **247 commits!**
+  - Shahbozbek2000 with **137 commits!**
+  - Jurody6260 with **67 commits!**
                           
 ### Lines Added champions are:
-  - 🏆 JasurM with **5685135 lines added!**
-  - 🥈 odilxon with **3939531 lines added!**
-  - 🥉 Shahbozbek2000 with **102305 lines added!**
-  - Azamov-Asadbek with **94474 lines added!**
-  - zebiniso78 with **1678 lines added!**
+  - 🏆 JasurM with **5685340 lines added!**
+  - 🥈 odilxon with **4564091 lines added!**
+  - 🥉 Jurody6260 with **1528402 lines added!**
+  - Azamov-Asadbek with **254384 lines added!**
+  - Shahbozbek2000 with **102305 lines added!**
                           
 ### Housekeeper champions are:
-  - 🏆 odilxon with **5730439 lines removed!**
-  - 🥈 Azamov-Asadbek with **31193 lines removed!**
+  - 🏆 odilxon with **5733336 lines removed!**
+  - 🥈 Azamov-Asadbek with **31266 lines removed!**
   - 🥉 Shahbozbek2000 with **25115 lines removed!**
-  - JasurM with **1452 lines removed!**
-  - zebiniso78 with **649 lines removed!**
+  - Jurody6260 with **1541 lines removed!**
+  - JasurM with **1527 lines removed!**
 
 
 # Donate to us
